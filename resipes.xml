@@ -1,0 +1,19 @@
+<dishes>
+  <омлет>
+   <€йца quantity=2 si=шт />
+   <молоко quantity=100 si=мл />
+   <помидор quantity=50 si=гр />
+   <соль quantity=1 si=ч.л. />
+  </омлет>
+  <стейк>
+   <м€со quantity=300 si=гр />
+   <специи quantity=1 si=ч.л. />
+   <соль quantity=1 si=ч.л. />
+  </стейк>
+  <салат>
+    <помидор quantity=100 si=гр />
+	<перец quantity = 2 si= шт />
+    <соль quantity=1 si=ч.л. />
+	<специи quantity=1 si=ч.л. />
+  </салат>
+</dishes>
